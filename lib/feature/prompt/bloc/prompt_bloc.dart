@@ -6,7 +6,7 @@ import 'dart:typed_data';
 import 'package:ai_image_genrator/feature/prompt/repository/prompt_repo.dart';
 import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
-import 'package:meta/meta.dart';
+
 
 part 'prompt_event.dart';
 part 'prompt_state.dart';
