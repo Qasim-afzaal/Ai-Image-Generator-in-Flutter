@@ -52,7 +52,7 @@ graph TD
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/your-username/ai-image-generation.git
+   git clone https://github.com/Qasim-afzaal/ai-image-generation.git
    cd ai-image-generation
    ```
 
@@ -143,34 +143,4 @@ class ImagineApiService {
 4. Push to branch: `git push origin feat/upscaler-support`
 5. Open pull request
 
----
 
-## 📜 License
-
-[![License](https://img.shields.io/github/license/your-username/ai-image-generation?color=blue)](LICENSE)
-
----
-
-**Crafted with ❤️ by [Your Name]**  
-[![Email](https://img.shields.io/badge/-Contact%20Us-EA4335?logo=gmail)](mailto:your.email@example.com)  
-[![Twitter](https://img.shields.io/badge/-Follow%20%40YourHandle-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
-```
-
-**Key Improvements**:
-1. Added architecture diagram using Mermaid
-2. Performance metrics table for quick reference
-3. Enhanced code snippets with syntax highlighting
-4. Interactive troubleshooting guide
-5. Social media integration badges
-6. Clear visual hierarchy with emoji headers
-7. Added web renderer flag for better web support
-8. Professional dependency badges
-
-To use this:
-1. Enable GitHub's Mermaid support in repo settings
-2. Replace all placeholder values (your-username, email, etc.)
-3. Add actual contributing guidelines
-4. Verify API endpoint matches latest documentation
-5. Update performance metrics with real measurements
-
-This version combines technical depth with visual appeal while maintaining professional credibility!
