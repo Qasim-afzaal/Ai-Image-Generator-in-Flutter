@@ -1,6 +1,3 @@
-Here's a polished, professional version of your README with enhanced visual elements and structure:
-
-```markdown
 # 🎨 AI Image Generator - Flutter & Imagine API
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.22-%2302569B?logo=flutter)](https://flutter.dev)
